@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/tiendat3008
 - 💬 Ask me about **Java, Spring Boot, and Backend Development**
 - 📫 How to reach me: **trantiendat1679@gmail.com**
-- 📄 Know about my experience [here](https://drive.google.com/file/d/1fUp_wqI0YINtizU5wuAxBTcVfG5bLJ3H/view?usp=drive_link)
+- 📄 Know about my experience [here](https://drive.google.com/file/d/1GBljmiorgE5uE4MPd8rTvtBi6_i-NGi_/view?usp=sharing)
 - 🎮 Hobbies: **Gaming and coding personal projects**
 
 <h3 align="left">Connect with me:</h3>
